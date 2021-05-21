@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Oğuzhan
 
 <div align="center">
-<img alt="Angular" src="https://komarev.com/ghpvc/?username=oguzhanbelli&style=plastic"/>
+<img alt="Angular" src="https://komarev.com/ghpvc/?username=oguzhanbelli&style=flat&color=red"/>
   </div>
 <div align="center">
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
