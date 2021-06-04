@@ -10,7 +10,8 @@
   ##
   ![Oguzhan GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanbelli&show_icons=true&theme=dracula)
   ##
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanbelli&layout=compact&theme=dracula)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oguzhanbelli&repo=hrms&theme=dracula)](https://github.com/oguzhanbelli/hrms)
 
 
 
