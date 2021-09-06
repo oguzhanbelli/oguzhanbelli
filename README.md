@@ -11,7 +11,7 @@
   ![Oguzhan GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanbelli&show_icons=true&theme=dracula)
   ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oguzhanbelli&repo=hrms&theme=dracula)](https://github.com/oguzhanbelli/hrms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oguzhanbelli&repo=SmartEduProject&theme=dracula)](https://github.com/oguzhanbelli/SmartEduProject)
 
 
 
