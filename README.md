@@ -5,7 +5,7 @@
   </div>
 <div align="center">
   <div> 
-  <b>I'm learning</b>
+  <b>I'm working</b>
   </div>
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   
