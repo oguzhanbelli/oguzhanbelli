@@ -13,11 +13,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-  ##
-  ![Oguzhan GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanbelli&show_icons=true&theme=dracula)
-  ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oguzhanbelli&repo=patika-dev-react&theme=dracula)](https://github.com/oguzhanbelli/patika-dev-react)
 
 
 
